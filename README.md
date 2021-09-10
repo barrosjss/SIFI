@@ -32,3 +32,13 @@ Universidad Libre | Trabajo de POO: Sistema de Facturación e Inventario.
 | `Proveedores  ` |
 | - RegistrarProductos |
 | - MostrarCantidadProductosDisponibles |
+
+
+| Vendedores |
+| ------------- |
+| `Cedula ` |
+| `NombreCompleto ` | 
+| `CantidadProductosVendidos ` |
+| `TotalHorasLaboradas  ` |
+| - IngresoVenta  |
+| - TotalVentas |
