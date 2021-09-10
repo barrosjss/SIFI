@@ -1,5 +1,6 @@
 # SIFI
 Universidad Libre | Trabajo de POO: **SISTEMA DE FACTURACION E INVENTARIO**
+- Nuestros apuntes en [Medium](https://www.google.com)
 
 
 # Problema
