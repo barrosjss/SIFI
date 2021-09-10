@@ -1,10 +1,8 @@
 # SIFI
-Universidad Libre | Trabajo de POO
+Universidad Libre | Trabajo de POO: **SISTEMA DE FACTURACION E INVENTARIO**
 
 
-
-**SISTEMA DE FACTURACION E INVENTARIO**
-
+# Problema
 El sistema debe permitir facturar y llevar el control de inventario teniendo en cuenta los siguientes requerimientos funcionales:
 1.un cliente puede realizar compras(CREDITO/CONTADO/CREDITO-CONTADO) de varios productos
 2.en una factura se pueden registrar todos los productos que se requieran
@@ -31,7 +29,7 @@ Para este primer corte(parcial 1) que se debe entregar:
 3. sustentacion
 
 
-
+# Maqueta
 Diagrama de clases y atributos.
 
 | Cliente |                           
