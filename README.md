@@ -27,42 +27,48 @@ Clases con atributos y metodos.
 
 | Cliente |                           
 | ------------- |                      
-| `Cedula` |                          
-| `NombreCompleto` |                 
+| `ID` |                          
+| `Nombre` |                 
 | `Monto` |                            
 | `MetodoPago` |                                                        
-| + RegistrarCliente |                
-| + MostrarDatosPedidoCliente |       
-| + RealizarCompra | 
-| + SaldosPendientes |  
+| RegistrarCliente() |                
+| MostrarDatosPedidoCliente() |       
+| RealizarCompra() | 
+| SaldosPendientes() |  
 
 | Factura |
 | ------------- |
-| `IDFactura` | 
-| `CedulaCliente` | 
+| `ID` | 
 | `IVA` |
 | `Fecha` |
-| `Total_pagar` |
-| + RegistrarFactura |
-| + ImprimirFactura |
+| `TotalPagar` |
+| RegistrarFactura() |
+| ImprimirFactura() |
 
 | Producto |
 | ------------- |
-| `ID Producto ` | 
-| `NombreProducto ` | 
-| `Precio_Cantidad ` | 
+| `ID ` | 
+| `Nombre ` | 
+| `Precio ` | 
 | `CategoríaProducto ` |
-| `CantidadProductosDisponibles ` |
-| `Proveedores  ` |
-| + RegistrarProductos |
-| + MostrarCantidadProductosDisponibles |
+| `CantidadUnidadesDisponibles ` |
+| RegistrarProductos() |
+| MostrarCantidadUnidadesDisponibles() |
 
 
-| Vendedores |
+| Vendedor |
 | ------------- |
 | `Cedula ` |
-| `NombreCompleto ` | 
-| `CantidadProductosVendidos ` |
+| `Nombre ` | 
+| `CantidadUnidadesVendidos ` |
 | `TotalHorasLaboradas  ` |
-| + IngresoVenta  |
-| + TotalVentas |
+| IngresoVenta()  |
+| TotalVentas() |
+
+| Proveedor |
+| ------------- |
+| `ID ` |
+| `Nombre ` | 
+| `CantidadProductosSurtidos ` |
+| RegistrarProveedor()  |
+| MostrarProductosSurtidos() |
