@@ -1,6 +1,6 @@
 # SIFI
 Universidad Libre | Trabajo de POO: **SISTEMA DE FACTURACION E INVENTARIO**
-- Nuestros apuntes en [Medium](https://www.google.com)
+- Nuestros apuntes en [Medium](https://barrosjss.medium.com/programación-orientada-a-objetos-6ed44a7a1dcf)
 
 
 # Problema
