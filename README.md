@@ -38,31 +38,37 @@ Clases con atributos y metodos.
 
 | Factura |
 | ------------- |
-| `IDFactura` | 
-| `CedulaCliente` | 
+| `ID` | 
 | `IVA` |
 | `Fecha` |
-| `Total_pagar` |
+| `TotalPagar` |
 | + RegistrarFactura |
 | + ImprimirFactura |
 
 | Producto |
 | ------------- |
-| `ID Producto ` | 
-| `NombreProducto ` | 
-| `Precio_Cantidad ` | 
+| `ID ` | 
+| `Nombre ` | 
+| `Precio ` | 
 | `CategoríaProducto ` |
-| `CantidadProductosDisponibles ` |
-| `Proveedores  ` |
+| `CantidadUnidadesDisponibles ` |
 | + RegistrarProductos |
-| + MostrarCantidadProductosDisponibles |
+| + MostrarCantidadUnidadesDisponibles |
 
 
-| Vendedores |
+| Vendedor |
 | ------------- |
 | `Cedula ` |
 | `NombreCompleto ` | 
-| `CantidadProductosVendidos ` |
+| `CantidadUnidadesVendidos ` |
 | `TotalHorasLaboradas  ` |
 | + IngresoVenta  |
 | + TotalVentas |
+
+| Proveedor |
+| ------------- |
+| `ID ` |
+| `Nombre ` | 
+| `CantidadProductosSurtidos ` |
+| + RegistrarProveedor  |
+| + MostrarProductosSurtidos |
