@@ -5,7 +5,7 @@
 ![Image text](https://github.com/barrosjss/SIFI/blob/main/Diagrama/img/DiagramaUML.jpg?raw=true)
 
 ## Diagrama de Objetos
-![Image text](https://github.com/barrosjss/SIFI/blob/main/Diagrama/img/DiagramaUML.jpg?raw=true)
+![Otra Image text](https://github.com/barrosjss/SIFI/blob/main/Diagrama/img/DiagramaObjetos.jpg?raw=true)
 
 ## Construido con 🛠️
 
