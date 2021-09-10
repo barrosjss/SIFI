@@ -39,10 +39,10 @@ Clases con atributos y metodos.
 | `NombreCompleto` |                 
 | `Monto` |                            
 | `MetodoPago` |                                                        
-| - RegistrarCliente |                
-| - MostrarDatosPedidoCliente |       
-| - RealizarCompra | 
-| - SaldosPendientes |  
+| + RegistrarCliente |                
+| + MostrarDatosPedidoCliente |       
+| + RealizarCompra | 
+| + SaldosPendientes |  
 
 | Factura |
 | ------------- |
@@ -51,8 +51,8 @@ Clases con atributos y metodos.
 | `IVA` |
 | `Fecha` |
 | `Total_pagar` |
-| - RegistrarFactura |
-| - ImprimirFactura |
+| + RegistrarFactura |
+| + ImprimirFactura |
 
 | Producto |
 | ------------- |
@@ -62,8 +62,8 @@ Clases con atributos y metodos.
 | `CategoríaProducto ` |
 | `CantidadProductosDisponibles ` |
 | `Proveedores  ` |
-| - RegistrarProductos |
-| - MostrarCantidadProductosDisponibles |
+| + RegistrarProductos |
+| + MostrarCantidadProductosDisponibles |
 
 
 | Vendedores |
@@ -72,5 +72,5 @@ Clases con atributos y metodos.
 | `NombreCompleto ` | 
 | `CantidadProductosVendidos ` |
 | `TotalHorasLaboradas  ` |
-| - IngresoVenta  |
-| - TotalVentas |
+| + IngresoVenta  |
+| + TotalVentas |
