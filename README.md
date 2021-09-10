@@ -21,14 +21,6 @@ la aplicacion orientada a objetos debe permitir lo siguiente REPORTES:
 6. las facturas devueltas o canceladas
 7. saldos pendientes de los clientes por pagar
 
-Si hay dudas de los requerimientos funcionales con gusto se los podre despejar. 
-Este proyecto se va a entregar por fases(Parciales)
-
-Para este primer corte(parcial 1) que se debe entregar:
-1. diagama de clases con sus atributos y metodos
-2. relaciones entre las clases
-3. sustentacion
-
 
 # Maqueta
 Clases con atributos y metodos.
