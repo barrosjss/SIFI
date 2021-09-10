@@ -31,7 +31,7 @@ Para este primer corte(parcial 1) que se debe entregar:
 
 
 # Maqueta
-Diagrama de clases y atributos.
+Diagrama de clases con atributos y metodos.
 
 | Cliente |                           
 | ------------- |                      
