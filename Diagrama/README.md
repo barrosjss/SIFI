@@ -3,8 +3,10 @@
 
 ## Diagrama de Clases
 ![Image text](https://github.com/barrosjss/SIFI/blob/main/Diagrama/DiagramaUML.jpg?raw=true)
-![Image text](https://github.com/barrosjss/SIFI/blob/main/Diagrama/img/DiagramaObjetos.jpg?raw=true)
 
 ## Diagrama de Objetos
+![Image text](https://github.com/barrosjss/SIFI/blob/main/Diagrama/img/DiagramaUML.jpg?raw=true)
+
+## Construido con 🛠️
 
 * [StarUML](https://staruml.io) - Modelador de software.
