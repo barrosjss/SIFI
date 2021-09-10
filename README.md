@@ -6,8 +6,7 @@ Universidad Libre | Trabajo de POO: Sistema de Facturación e Inventario.
 | `Cedula` |                          
 | `NombreCompleto` |                 
 | `Monto` |                            
-| `MetodoPago` |                      
-                                      
+| `MetodoPago` |                                                        
 | - RegistrarCliente |                
 | - MostrarDatosPedidoCliente |       
 | - RealizarCompra | 
