@@ -1,7 +1,7 @@
 # SIFI
 Universidad Libre | Trabajo de POO: Sistema de Facturación e Inventario.
 
-DIAGRAMA DE CLASES Y ATRIBUTOS.
+Diagrama de clases y atributos.
 
 | Cliente |                           
 | ------------- |                      
