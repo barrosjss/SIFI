@@ -58,7 +58,7 @@ Clases con atributos y metodos.
 
 | Vendedor |
 | ------------- |
-| `Cedula ` |
+| `ID ` |
 | `Nombre ` | 
 | `CantidadUnidadesVendidos ` |
 | `TotalHorasLaboradas  ` |
