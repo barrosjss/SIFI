@@ -27,8 +27,8 @@ Clases con atributos y metodos.
 
 | Cliente |                           
 | ------------- |                      
-| `Cedula` |                          
-| `NombreCompleto` |                 
+| `ID` |                          
+| `Nombre` |                 
 | `Monto` |                            
 | `MetodoPago` |                                                        
 | + RegistrarCliente |                
@@ -59,7 +59,7 @@ Clases con atributos y metodos.
 | Vendedor |
 | ------------- |
 | `Cedula ` |
-| `NombreCompleto ` | 
+| `Nombre ` | 
 | `CantidadUnidadesVendidos ` |
 | `TotalHorasLaboradas  ` |
 | + IngresoVenta  |
