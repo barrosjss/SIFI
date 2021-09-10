@@ -5,12 +5,12 @@ Universidad Libre | Trabajo de POO: **SISTEMA DE FACTURACION E INVENTARIO**
 
 # Problema
 El sistema debe permitir facturar y llevar el control de inventario teniendo en cuenta los siguientes requerimientos funcionales:
-1.un cliente puede realizar compras(CREDITO/CONTADO/CREDITO-CONTADO) de varios productos
-2.en una factura se pueden registrar todos los productos que se requieran
-3.Un vendedor puede atender a varios clientes
-4.Se debe manejar los productos por categorias y precios
-5.existe un inventario de productos
-6.existen proveedores de los diferentes productos.
+1. un cliente puede realizar compras(CREDITO/CONTADO/CREDITO-CONTADO) de varios productos
+2. en una factura se pueden registrar todos los productos que se requieran
+3. Un vendedor puede atender a varios clientes
+4. Se debe manejar los productos por categorias y precios
+5. existe un inventario de productos
+6. existen proveedores de los diferentes productos.
 
 la aplicacion orientada a objetos debe permitir lo siguiente REPORTES:
 1. poder consultar las facturas de los clientes
