@@ -31,10 +31,10 @@ Clases con atributos y metodos.
 | `Nombre` |                 
 | `Monto` |                            
 | `MetodoPago` |                                                        
-| + RegistrarCliente |                
-| + MostrarDatosPedidoCliente |       
-| + RealizarCompra | 
-| + SaldosPendientes |  
+| RegistrarCliente() |                
+| MostrarDatosPedidoCliente() |       
+| RealizarCompra() | 
+| SaldosPendientes() |  
 
 | Factura |
 | ------------- |
@@ -42,8 +42,8 @@ Clases con atributos y metodos.
 | `IVA` |
 | `Fecha` |
 | `TotalPagar` |
-| + RegistrarFactura |
-| + ImprimirFactura |
+| RegistrarFactura() |
+| ImprimirFactura() |
 
 | Producto |
 | ------------- |
@@ -52,8 +52,8 @@ Clases con atributos y metodos.
 | `Precio ` | 
 | `CategoríaProducto ` |
 | `CantidadUnidadesDisponibles ` |
-| + RegistrarProductos |
-| + MostrarCantidadUnidadesDisponibles |
+| RegistrarProductos() |
+| MostrarCantidadUnidadesDisponibles() |
 
 
 | Vendedor |
@@ -62,13 +62,13 @@ Clases con atributos y metodos.
 | `Nombre ` | 
 | `CantidadUnidadesVendidos ` |
 | `TotalHorasLaboradas  ` |
-| + IngresoVenta  |
-| + TotalVentas |
+| IngresoVenta()  |
+| TotalVentas() |
 
 | Proveedor |
 | ------------- |
 | `ID ` |
 | `Nombre ` | 
 | `CantidadProductosSurtidos ` |
-| + RegistrarProveedor  |
-| + MostrarProductosSurtidos |
+| RegistrarProveedor()  |
+| MostrarProductosSurtidos() |
