@@ -13,8 +13,6 @@ Universidad Libre | Trabajo de POO: Sistema de Facturación e Inventario.
 | - RealizarCompra | 
 | - SaldosPendientes |  
 
-| ----------- | 
-
 | Factura |
 | ------------- |
 | `IDFactura` | 
