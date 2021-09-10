@@ -21,3 +21,14 @@ Universidad Libre | Trabajo de POO: Sistema de Facturación e Inventario.
 | `Total_pagar` |
 | - RegistrarFactura |
 | - ImprimirFactura |
+
+| Producto |
+| ------------- |
+| `ID Producto ` | 
+| `NombreProducto ` | 
+| `Precio_Cantidad ` | 
+| `CategoríaProducto ` |
+| `CantidadProductosDisponibles ` |
+| `Proveedores  ` |
+| - RegistrarProductos |
+| - MostrarCantidadProductosDisponibles |
