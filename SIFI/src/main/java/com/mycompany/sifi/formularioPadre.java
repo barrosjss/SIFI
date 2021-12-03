@@ -267,13 +267,17 @@ public class formularioPadre extends javax.swing.JFrame {
         if(this.jCheckBox1.isSelected()){
             descuento = 0.15 * subtotal;
         }
-        String factura = "";
+        double total = subtotal-descuento;
+        String documento = "";
         if(this.jRadioButton1.isSelected()){
-            factura = "Factura Electronica.";
+            documento = "Factura Electronica.";
         }
         else{
-            factura = "Factura Fisica.";
+            documento = "Factura Fisica.";
         }
+        
+        formularioHijo fh = new formularioHijo(new formularioPadre(), true, documento, cliente, producto, precio, cantidad, subtotal, descuento, total);
+        fh.setVisible(true);
     }                                        
 
     /**
